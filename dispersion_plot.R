@@ -30,6 +30,7 @@
 #
 # Note: there is no error checking in this function, so errors or warnings
 # may appear. Please check the object classes to be inputted in each argument.
+# Requirments: ggplot2 package
 dispersion_plot <- function(dist = NULL, variable = NULL, 
                             type = "random", angle_diff = pi/16, 
                             col = c("blue", "red"), size = 2, alpha = 0.5, legend_title = "variable", axis_name = "Distance to source",
