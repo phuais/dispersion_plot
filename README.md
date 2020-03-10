@@ -5,10 +5,10 @@ This function generates a two dimensional plot useful for data points
 depicting a distance from a particular source. For instance, lets think
 of points depicting stations in which a particular air pollutant is 
 measured, at different distances from a pollutant source, such as a 
-factory. The generated plot # situates the inputted points so that the 
-distance from this point to the # center of the plot (the vector module) 
+factory. The generated plot situates the inputted points so that the 
+distance from this point to the center of the plot (the module of the vector) 
 relate with the real distance between each point (e.g. a sampling station) 
-and the source (e.g. a factory). One can also define # a particular 
+and the source (e.g. a factory). One can also define a particular 
 variable (e.g. the concentration of the pollutant) in order to plot the 
 points with a color range (also customizable).
 
